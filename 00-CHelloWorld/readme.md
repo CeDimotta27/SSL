@@ -22,13 +22,13 @@ Lograr obtener el resultado del programa puede conseguirse de varias maneras:
   
 **_Aclaración:_** En este caso se debe poner hello.c porque el archivo que contiene el código se llama “hello.c” pero si se quiere compilar otro solo basta con cambiarle el nombre al mismo que se le asocio al programa cuando se guardó (“gcc *NombreDelArchivo*.c)
 
-Ingresar este pequeño código hace se compile el programa y crea el archivo **.exe**, generando su ejecutable.
+Ingresar este pequeño código hace que se compile el programa y crea el archivo **.exe**, generando su ejecutable.
 
 Luego, una vez de haber presionado enter, se procede a ingresar el código (por consola tambien):
 
 **.\hello.exe**
 
-Que corre el ejecutable que se creó anteriormente para devolver el resultado del código (acá tambien, si se desea correr otro programa solo basta con cambiarle el nombre al archivo elegido.
+Que corre el ejecutable que se creó anteriormente para devolver el resultado del código (acá tambien, si se desea correr otro programa solo basta con cambiarle el nombre al archivo elegido):
 
 *.\NombreDelArchivo*.exe
   
