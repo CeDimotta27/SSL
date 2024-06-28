@@ -34,7 +34,7 @@
 | 23            | puts                                           | identificador      |
 | 23            | ""uso: suma nro1 nro2""                        | literalCadena      |
 | 24            | exit                                           | palabraReservada   |
-| 26            | ||                                             | operador           |
+| 26            | (disyunción)                                             | operador           |
 | 26            | 2                                              | constante          |
 | 27            | ""nro1 y nro2 deben ser constantes numéricas"" | literalCadena      |
 | 28            | -                                              | operador           |
